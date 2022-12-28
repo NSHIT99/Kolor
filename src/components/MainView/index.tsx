@@ -4040,6 +4040,806 @@ export default function Mainview() {
                 alt=""
               />
             </div>
+            <div
+              data-index="0"
+              data-image-id="2735"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_001-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="1"
+              data-image-id="2736"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_002-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="2"
+              data-image-id="2737"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_003-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="3"
+              data-image-id="2738"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_004-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="4"
+              data-image-id="2739"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_005-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="5"
+              data-image-id="2740"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_006-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="6"
+              data-image-id="2741"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_007-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="7"
+              data-image-id="2742"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_008-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="8"
+              data-image-id="2743"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_009-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="9"
+              data-image-id="2744"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_010-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="10"
+              data-image-id="2745"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_011-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="11"
+              data-image-id="2746"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_012-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="12"
+              data-image-id="2747"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_013-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="13"
+              data-image-id="2748"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_014-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="14"
+              data-image-id="2749"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_015-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="15"
+              data-image-id="2750"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_016-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="16"
+              data-image-id="2751"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_017-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="17"
+              data-image-id="2752"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_018-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="18"
+              data-image-id="2753"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_019-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="19"
+              data-image-id="2754"
+              data-gender="women"
+              className="c-tile"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_020-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="0"
+              data-image-id="2735"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_001-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_001-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="1"
+              data-image-id="2736"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_002-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_002-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="2"
+              data-image-id="2737"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_003-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_003-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="3"
+              data-image-id="2738"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_004-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_004-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="4"
+              data-image-id="2739"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_005-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_005-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="5"
+              data-image-id="2740"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_006-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_006-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="6"
+              data-image-id="2741"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_007-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_007-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="7"
+              data-image-id="2742"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_008-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_008-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="8"
+              data-image-id="2743"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_009-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_009-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="9"
+              data-image-id="2744"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_010-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_010-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="10"
+              data-image-id="2745"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_011-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_011-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="11"
+              data-image-id="2746"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_012-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_012-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="12"
+              data-image-id="2747"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_013-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_013-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="13"
+              data-image-id="2748"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_014-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_014-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="14"
+              data-image-id="2749"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_015-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_015-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="15"
+              data-image-id="2750"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_016-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_016-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="16"
+              data-image-id="2751"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_017-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_017-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="17"
+              data-image-id="2752"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_018-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_018-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="18"
+              data-image-id="2753"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_019-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_019-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
+            <div
+              data-index="19"
+              data-image-id="2754"
+              data-gender="women"
+              className="c-tile is-clone"
+              data-image="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-173x260.jpg"
+              data-image-2x="https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-346x521.jpg"
+            >
+              <div className="c-tile__veil">
+                <div className="c-tile__veil__container"></div>
+              </div>
+              <img
+                src="./kolor _ 2023 SPRING_SUMMER collection _ men_files/kolor_SS23_020-1-173x260.jpg"
+                srcSet="
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-173x260.jpg 1x,
+                  https://kolor.jp/wp/wp-content/uploads/2022/12/kolor_SS23_020-1-346x521.jpg 2x
+                "
+                alt=""
+              />
+            </div>
           </div>
           <div className="p-tiles-gradient"></div>
         </div>
