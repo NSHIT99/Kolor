@@ -4849,7 +4849,7 @@ export default function Mainview() {
           <div className="p-menu__base">
             <div className="p-menu__container">
               <header className="p-menu__header">
-                <a href="https://kolor.jp/">
+                <a>
                   <span className="c-icon">kolor</span>
                 </a>
               </header>
@@ -4893,22 +4893,14 @@ export default function Mainview() {
                     </h2>
                     <ul>
                       <li>
-                        <a
-                          className="u-typewriter"
-                          href="https://kolor.jp/collections/2023ss/men/"
-                          data-scene="men"
-                        >
+                        <a className="u-typewriter" data-scene="men">
                           <span className="u-typewriter-letter">M</span>
                           <span className="u-typewriter-letter">E</span>
                           <span className="u-typewriter-letter">N</span>
                         </a>
                       </li>
                       <li>
-                        <a
-                          className="u-typewriter"
-                          href="https://kolor.jp/collections/2023ss/women/"
-                          data-scene="women"
-                        >
+                        <a className="u-typewriter" data-scene="women">
                           <span className="u-typewriter-letter">W</span>
                           <span className="u-typewriter-letter">O</span>
                           <span className="u-typewriter-letter">M</span>
@@ -4917,11 +4909,7 @@ export default function Mainview() {
                         </a>
                       </li>
                       <li>
-                        <a
-                          className="u-typewriter"
-                          href="https://kolor.jp/collections/"
-                          data-scene="collections"
-                        >
+                        <a className="u-typewriter" data-scene="collections">
                           <span className="u-typewriter-letter">A</span>
                           <span className="u-typewriter-letter">R</span>
                           <span className="u-typewriter-letter">C</span>
@@ -4933,11 +4921,7 @@ export default function Mainview() {
                         </a>
                       </li>
                       <li>
-                        <a
-                          className="u-typewriter"
-                          href="https://kolor.jp/videos/"
-                          data-scene="videos"
-                        >
+                        <a className="u-typewriter" data-scene="videos">
                           <span className="u-typewriter-letter">V</span>
                           <span className="u-typewriter-letter">I</span>
                           <span className="u-typewriter-letter">D</span>
@@ -4951,7 +4935,7 @@ export default function Mainview() {
                 </section>
                 <section className="p-menu__news">
                   <h2>
-                    <a className="u-typewriter" href="https://kolor.jp/news/">
+                    <a className="u-typewriter">
                       <span className="u-typewriter-letter">N</span>
                       <span className="u-typewriter-letter">E</span>
                       <span className="u-typewriter-letter">W</span>
@@ -4961,7 +4945,6 @@ export default function Mainview() {
                   <ul className="p-menu__news__l">
                     <li className="p-menu__news__li">
                       <a
-                        href="https://kolor.jp/news/spring-summer-2023-collection/"
                         data-id="2757"
                         data-slug="spring-summer-2023-collection"
                         data-category="information"
@@ -5025,7 +5008,6 @@ export default function Mainview() {
                     </li>
                     <li className="p-menu__news__li">
                       <a
-                        href="https://kolor.jp/news/popup-store-2/"
                         data-id="2700"
                         data-slug="popup-store-2"
                         data-category="event"
@@ -5084,7 +5066,6 @@ export default function Mainview() {
                     </li>
                     <li className="p-menu__news__li">
                       <a
-                        href="https://kolor.jp/news/kolor-ultraman%e2%81%a3-online-store/"
                         data-id="2697"
                         data-slug="kolor-ultraman%e2%81%a3-online-store"
                         data-category="information"
@@ -5157,10 +5138,7 @@ export default function Mainview() {
                   </h2>
                   <ul>
                     <li className="p-menu__connect__li p-menu__connect__li--shoplist">
-                      <a
-                        className="u-typewriter"
-                        href="https://kolor.jp/shoplist/"
-                      >
+                      <a className="u-typewriter">
                         <span className="u-typewriter-letter">S</span>
                         <span className="u-typewriter-letter">H</span>
                         <span className="u-typewriter-letter">O</span>
@@ -5172,10 +5150,7 @@ export default function Mainview() {
                       </a>
                     </li>
                     <li className="p-menu__connect__li p-menu__connect__li--newsletter">
-                      <a
-                        className="u-typewriter"
-                        href="https://kolor.jp/newsletter/"
-                      >
+                      <a className="u-typewriter">
                         <span className="u-typewriter-letter">N</span>
                         <span className="u-typewriter-letter">E</span>
                         <span className="u-typewriter-letter">W</span>
@@ -5189,10 +5164,7 @@ export default function Mainview() {
                       </a>
                     </li>
                     <li className="p-menu__connect__li p-menu__connect__li--contact">
-                      <a
-                        className="u-typewriter"
-                        href="https://kolor.jp/contact/"
-                      >
+                      <a className="u-typewriter">
                         <span className="u-typewriter-letter">C</span>
                         <span className="u-typewriter-letter">O</span>
                         <span className="u-typewriter-letter">N</span>
@@ -5203,7 +5175,7 @@ export default function Mainview() {
                       </a>
                     </li>
                     <li className="p-menu__connect__li p-menu__connect__li--jobs">
-                      <a className="u-typewriter" href="https://kolor.jp/jobs/">
+                      <a className="u-typewriter">
                         <span className="u-typewriter-letter">J</span>
                         <span className="u-typewriter-letter">O</span>
                         <span className="u-typewriter-letter">B</span>
@@ -5211,20 +5183,12 @@ export default function Mainview() {
                       </a>
                     </li>
                     <li className="p-menu__connect__li p-menu__connect__li--instagram">
-                      <a
-                        className="p-menu__connect__instagram"
-                        href="https://www.instagram.com/kolorofficial/"
-                        target="_blank"
-                      >
+                      <a className="p-menu__connect__instagram" target="_blank">
                         <span className="c-icon">instagram</span>
                       </a>
                     </li>
                     <li className="p-menu__connect__li p-menu__connect__li--facebook">
-                      <a
-                        className="p-menu__connect__facebook"
-                        href="https://www.facebook.com/kolorofficial/"
-                        target="_blank"
-                      >
+                      <a className="p-menu__connect__facebook" target="_blank">
                         <span className="c-icon">facebook</span>
                       </a>
                     </li>
@@ -5233,16 +5197,12 @@ export default function Mainview() {
               </div>
               <aside className="p-menu__aside">
                 <div className="p-menu__aside__beacon">
-                  <a
-                    href="http://kolor.jp/beacon/"
-                    target="_blank"
-                    className=""
-                  >
+                  <a target="_blank" className="">
                     <span className="c-icon">kolor BEACON</span>
                   </a>
                 </div>
                 <div className="p-menu__aside__ec">
-                  <a href="https://onlinestore.kolor.jp/" target="_blank">
+                  <a target="_blank">
                     <span className="c-icon">kolor</span>
                     <span className="is-text">
                       OFFICIAL <i className="u-br u-br--sp"></i>ONLINE STORE
