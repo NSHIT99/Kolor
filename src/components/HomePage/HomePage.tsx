@@ -1,12 +1,12 @@
 import React from "react";
+import Mainview from "../MainView";
 import "./Homepage.css";
 
 const HomePage: React.FC = () => {
   return (
     <>
       <div className="wrapper">
-        <div>Slide</div>
-        <div>Content</div>
+        <Mainview />
         <div className="orange-fly"></div>
         <div className="satage">
           <div className="chips">

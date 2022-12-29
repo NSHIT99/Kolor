@@ -10,8 +10,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    {/* <HomePage/> */}
-    <Mainview />
+    <HomePage/>
   </React.StrictMode>
 );
 

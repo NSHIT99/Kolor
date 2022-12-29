@@ -309,8 +309,10 @@ a:visited {
 .p-tiles-col--3 .p-tiles-col__container .c-tile .c-tile__veil {
   position: absolute;
   top: 0;
-  animation: scrollImg 1s;
+  animation: scrollImg 1.5s forwards;
+  animation-delay: 2.5s;
   left: 0;
+  height: 100%;
   width: 110px;
   z-index: 0;
 }
@@ -318,7 +320,9 @@ a:visited {
 .p-tiles-col--4 .p-tiles-col__container .c-tile .c-tile__veil {
   position: absolute;
   top: 0;
-  animation: scrollImg 2s;
+  animation: scrollImg 2s forwards;
+  animation-delay: 2.5s;
+  height: 100%;
   left: 0;
   width: 173px;
   z-index: 0;
