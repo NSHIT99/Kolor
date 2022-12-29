@@ -7,6 +7,7 @@ const HomePage: React.FC = () => {
       <div className="wrapper">
         <div>Slide</div>
         <div>Content</div>
+        <div className="orange-fly"></div>
         <div className="satage">
           <div className="chips">
             <div className="chip-g1">
